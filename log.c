@@ -3,7 +3,7 @@ int client;
 int server;
 int sd;
 int sdss;
-int sdddaaaaaa;
+int sd;
 int sdssaaaa;
 int sddd;
 int client11;
