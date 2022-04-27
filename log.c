@@ -5,6 +5,8 @@ int sd;
 int sdss;
 int sdddaaaaaa;
 int sdss;
+int sd;
+int sdssaaaa;
 int sddd;
 int client11;
 int server11;
